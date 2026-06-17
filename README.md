@@ -1,75 +1,59 @@
-# Privacy Policy — Easy Communication Messenger (ECM)
+Privacy Policy — Easy Communication Messenger (ECM)
 
-This Privacy Policy describes how Easy Communication Messenger (ECM) collects, uses, processes, and protects personal data of users. By using the application, you agree to this Privacy Policy.
+This Privacy Policy explains how Easy Communication Messenger (ECM) collects, uses, processes, and protects user data. By using the application, you agree to this Privacy Policy.
 
----
+1. Collection and Use of Information
 
-## 1. Collection and Use of Information
+ECM collects only the minimum data necessary to operate the application:
 
-ECM collects only the minimum necessary data to operate the application:
+Phone number — used for account registration and user identification
+Profile name — stored in the system and displayed to other users
+Technical information — device type, application version, and diagnostic data from Firebase services (including Crashlytics and Analytics)
 
-- **Phone number** — for account registration and identification  
-- **Profile name** — stored in the system and displayed to other users  
-- **Technical information** — device type, application version, crash reports via Google Firebase Crashlytics and Analytics  
+Additionally, ECM tracks the number of translated characters solely to enforce usage limits. Message content is not accessed for this purpose.
 
-Additionally, ECM tracks the number of translated characters solely to manage usage limits. Message content is not accessed for this purpose.
+ECM does not access or read the content of private messages.
 
-ECM does **not** store chat messages in decrypted (plaintext) form. Message content is accessible only to the sender and the recipient.
+Messages are not stored in decrypted (plaintext) form. They are accessible only to the sender and the recipient.
 
----
+2. Translations and Google Cloud Translation API
 
-## 2. Translations and Google Cloud Translation API
+To reduce language barriers, ECM uses Google Cloud Translation API.
 
-To reduce language barriers, ECM uses **Google Cloud Translation API**.
-
-- Transmitted data is used **exclusively** for message translation  
-- Translation data is processed according to Google Cloud policies  
-- Minor translation inaccuracies may occur due to automated algorithms  
-
----
-
-## 3. Security
+Data is transmitted solely for translation purposes
+Translation processing is subject to Google Cloud policies
+Automated translation may occasionally produce inaccuracies
+3. Security
 
 ECM applies industry-standard security measures:
 
-- All communication is transmitted over secure **TLS channels**
-- **End-to-End Encryption (E2EE)** using AES is applied to messages
-- Camera access is requested **only** for QR code scanning to add contacts
-- ECM does **not** access microphone data
-- ECM does **not** collect geolocation data
+All communication is transmitted over secure TLS connections
+End-to-End Encryption (E2EE) using AES-based mechanisms is applied to messages
+Camera access is used only for QR code scanning to add contacts
+ECM does not access microphone data
+ECM does not collect geolocation data
+4. Advertising
 
----
+Advertising may be shown to support free access to application features.
 
-## 4. Advertising
+5. User Rights
 
-Advertising may be shown solely to support free access to application features.
+Users have the right to request deletion of their personal data.
 
----
+After verification, the account and associated data will be deleted within a reasonable period.
 
-## 5. User Rights
+Requests can be submitted via the contact email below.
 
-Users have the right to request deletion of their personal data.  
-To submit a request, contact support at the email below.
+6. Legal Compliance
 
-After confirmation, the user account and associated data will be removed.
+ECM complies with GDPR and other applicable data protection laws.
 
----
+7. Contact Information
 
-## 6. Legal Compliance
+For any privacy-related inquiries:
 
-ECM complies with **GDPR** and other applicable data protection laws.
+📩 easycm.app@gmail.com
 
----
-
-## 7. Contact Information
-
-For all inquiries related to data processing and privacy:
-
-📩 **easycm.app@gmail.com**
-
----
-
----
 
 # Terms of Service — Easy Communication Messenger (ECM)
 
