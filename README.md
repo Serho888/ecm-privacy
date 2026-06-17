@@ -55,66 +55,58 @@ For any privacy-related inquiries:
 📩 easycm.app@gmail.com
 
 
-# Terms of Service — Easy Communication Messenger (ECM)
+Terms of Service — Easy Communication Messenger (ECM)
 
 These Terms of Service govern access to and use of the Easy Communication Messenger (ECM) application. By using the app, you agree to these terms.
 
----
-
-## 1. Permitted Use
+1. Permitted Use
 
 Users must use ECM lawfully and respectfully.
 
 Use of ECM for the following purposes is prohibited:
 
-- Distribution of spam
-- Harassment, threats, or abusive behavior
-- Dissemination of extremist or illegal materials
-- Any other unlawful activity
+Distribution of spam
+Harassment, threats, or abusive behavior
+Dissemination of extremist or illegal materials
+Any other unlawful activity
+2. Translations and Liability
 
----
+Message translations are performed using Google Cloud Translation API.
 
-## 2. Translations and Liability
+Although translation accuracy is high, occasional inaccuracies may occur.
 
-- Message translations are performed using **Google Cloud Translation API**
-- Although translation accuracy is high, occasional inaccuracies may occur
-- ECM is not liable for consequences resulting from translation inaccuracies
+ECM is not liable for consequences resulting from translation inaccuracies.
 
----
+3. Premium Access and Subscriptions
 
-## 3. Premium Access and Subscriptions
+Full access to translation features may require a paid subscription.
 
-- Full access to translation features may require a paid subscription
-- Subscriptions are processed via **Google Play**
-- Subscriptions are **non-refundable** once activated
-- Each subscription includes a fixed quota of translation characters
-- Unused characters do not roll over or accumulate
-- At the end of the subscription period, the character limit resets
+Subscriptions are processed via Google Play.
 
----
+Subscriptions are non-refundable once activated.
 
-## 4. Security
+Each subscription includes a fixed quota of translation characters per billing period (monthly or yearly depending on the selected plan).
 
-- Messages are transmitted over secure TLS channels
-- End-to-End Encryption (AES-based) is applied to all messages
+Unused characters do not roll over or accumulate.
 
----
+At the end of the billing period, the character limit resets.
 
-## 5. Account Suspension
+4. Security
+
+Messages are transmitted over secure TLS channels.
+
+End-to-End Encryption (AES-based) is applied to all messages.
+
+5. Account Suspension
 
 ECM reserves the right to suspend or terminate accounts that violate these Terms.
 
----
+6. Changes to Terms
 
-## 6. Changes to Terms
+These Terms may be updated at any time without prior notice.
 
-These Terms may be updated at any time without prior notice.  
 Continued use of the application implies acceptance of the updated Terms.
 
----
+7. Contact Information
 
-## 7. Contact Information
-
-For all inquiries related to usage of the application:
-
-📩 **easycm.app@gmail.com**
+📩 easycm.app@gmail.com
